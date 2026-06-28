@@ -15,6 +15,6 @@ i can also develop in C and C++, but with less expertise (i need to give it time
 studying app development frameworks to establish a choice for a project of my own. concurrently reinforcing my personal experience by refactoring old projects (and perhaps retaking on old ideas). i want to learn new things and relearn existing tools to improve further on my knowledge.
 
 ## what do i want to do? 🧑‍💻
-i want to be proficient in Kotlin and TypeScript for personal use, C# (game development oriented) and Python for a more professional aim.
+i want to be proficient in Kotlin and TypeScript, as well as C# (game development oriented) and Python. always adding languages
 
-*also keeping an eye forever on C and C++, as well as Rust and Go; but rather used for challenge tasks than production work*
+*forever keeping an eye on C and C++, as well as Rust and Go; but rather used for challenge tasks than production work. i do love C, though*
